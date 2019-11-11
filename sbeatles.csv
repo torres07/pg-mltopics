@@ -159,8 +159,7 @@
  "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/ontology/artist" , "http://dbpedia.org/resource/The_Beatles" ,
  "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/ontology/producer" , "http://dbpedia.org/resource/George_Martin" ,
  "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/property/length" , "33:26" ,
- "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/ontology/reviews" , "*Allmusic {{Rating|5|5}} [http://www.allmusic.com/cg/amg.dll?p=amg&sql=Adq63tr29kl4x link]
-*Q {{Rating|4|5}} [http://www.q4music.com/nav?page=q4music.artist.review&fixture_review=117562&fixture_artist=144975 link]" ,
+ "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/ontology/reviews" , "*Allmusic" ,
  "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/ontology/runtime" , "33:26" ,
  "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/property/wikiPageUsesTemplate" , "http://dbpedia.org/resource/Template:infobox_album" ,
  "http://dbpedia.org/resource/Beatles_for_Sale" , "http://dbpedia.org/property/wikiPageUsesTemplate" , "http://dbpedia.org/resource/Template:succession_box" ,
